@@ -1,2 +1,2 @@
 # AttackOnTitan
-A presentation about an anime called Attack On Titan
+A presentation about an anime called Attack On Titan.
